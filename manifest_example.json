@@ -1,0 +1,541 @@
+{
+    "chunkData": {
+        "0": {
+            "chunkMD5Hash": "eb3efb23b5767bf02e7997ec5a63f9b9",
+            "chunkSize": 10000,
+            "position": "00000"
+        },
+        "1": {
+            "chunkMD5Hash": "9f70d9bd5b11e2f1dbc8fcfe8acb0561",
+            "chunkSize": 10000,
+            "position": "00001"
+        },
+        "2": {
+            "chunkMD5Hash": "1e1dd3f4210420ec9916736333b948c1",
+            "chunkSize": 10000,
+            "position": "00002"
+        },
+        "3": {
+            "chunkMD5Hash": "1e7afdf59dc7f2727cef80d5cadaf6d0",
+            "chunkSize": 10000,
+            "position": "00003"
+        },
+        "4": {
+            "chunkMD5Hash": "2955ba9e491faf9e9923c3dafde949e8",
+            "chunkSize": 10000,
+            "position": "00004"
+        },
+        "5": {
+            "chunkMD5Hash": "e6894aad3a049d069fa604cffe8f784b",
+            "chunkSize": 10000,
+            "position": "00005"
+        },
+        "6": {
+            "chunkMD5Hash": "386aacebf262c663f9bdc55aedd09cdc",
+            "chunkSize": 10000,
+            "position": "00006"
+        },
+        "7": {
+            "chunkMD5Hash": "abefe8453faa5b6a79e47832c39a4df7",
+            "chunkSize": 10000,
+            "position": "00007"
+        },
+        "8": {
+            "chunkMD5Hash": "bd363de05399100a8d5cf2b04a6e154f",
+            "chunkSize": 10000,
+            "position": "00008"
+        },
+        "9": {
+            "chunkMD5Hash": "eb294469673f5ae1f4093947097c735c",
+            "chunkSize": 10000,
+            "position": "00009"
+        },
+        "10": {
+            "chunkMD5Hash": "d8db64a0547662b5891ee18b1ceaadd1",
+            "chunkSize": 10000,
+            "position": "00010"
+        },
+        "11": {
+            "chunkMD5Hash": "9b1b61d9d9b25c342b191ee7debee535",
+            "chunkSize": 10000,
+            "position": "00011"
+        },
+        "12": {
+            "chunkMD5Hash": "3cdf49d75605dca5652ebae1171cc61e",
+            "chunkSize": 10000,
+            "position": "00012"
+        },
+        "13": {
+            "chunkMD5Hash": "6d5c39acd06a318476092fb61fcd3c83",
+            "chunkSize": 10000,
+            "position": "00013"
+        },
+        "14": {
+            "chunkMD5Hash": "92251a3e994b159c6138db4ac046089d",
+            "chunkSize": 10000,
+            "position": "00014"
+        },
+        "15": {
+            "chunkMD5Hash": "961261796b2dc60484758dae79f7d4f2",
+            "chunkSize": 10000,
+            "position": "00015"
+        },
+        "16": {
+            "chunkMD5Hash": "0bbb1a581cdc362ce3c23262220ca967",
+            "chunkSize": 10000,
+            "position": "00016"
+        },
+        "17": {
+            "chunkMD5Hash": "8f3bd1cdbedb01323399fda5c0c51596",
+            "chunkSize": 10000,
+            "position": "00017"
+        },
+        "18": {
+            "chunkMD5Hash": "ad97d2fa8afed9c53ed805f6f1cb90b8",
+            "chunkSize": 10000,
+            "position": "00018"
+        },
+        "19": {
+            "chunkMD5Hash": "f18158cab85eca0a46002f06e2df6a6b",
+            "chunkSize": 10000,
+            "position": "00019"
+        },
+        "20": {
+            "chunkMD5Hash": "f312c1d02adf2e9dce74381bb5a40ee1",
+            "chunkSize": 10000,
+            "position": "00020"
+        },
+        "21": {
+            "chunkMD5Hash": "66919c14fbe4c25f7afb70c1689dce57",
+            "chunkSize": 10000,
+            "position": "00021"
+        },
+        "22": {
+            "chunkMD5Hash": "a17d7a9d780023df3943f9df9f9326a3",
+            "chunkSize": 10000,
+            "position": "00022"
+        },
+        "23": {
+            "chunkMD5Hash": "ef10bbecce6c6aec50ee73d6daa09bee",
+            "chunkSize": 10000,
+            "position": "00023"
+        },
+        "24": {
+            "chunkMD5Hash": "7ecdd5ce9ae8c000fb0ed56554de74a7",
+            "chunkSize": 10000,
+            "position": "00024"
+        },
+        "25": {
+            "chunkMD5Hash": "7ed841f7bd37219ecc23c45c404ad4a1",
+            "chunkSize": 10000,
+            "position": "00025"
+        },
+        "26": {
+            "chunkMD5Hash": "5da34eae1a56c5dc2af562eb914e62f9",
+            "chunkSize": 10000,
+            "position": "00026"
+        },
+        "27": {
+            "chunkMD5Hash": "53425794cc11fc500353218157cf49e6",
+            "chunkSize": 10000,
+            "position": "00027"
+        },
+        "28": {
+            "chunkMD5Hash": "9ac8a9747feb946559492caf369650d2",
+            "chunkSize": 10000,
+            "position": "00028"
+        },
+        "29": {
+            "chunkMD5Hash": "0a125bbd72664f5e977d573f71e16148",
+            "chunkSize": 10000,
+            "position": "00029"
+        },
+        "30": {
+            "chunkMD5Hash": "9b4eeecf6b885c7de4cec00d89b32b83",
+            "chunkSize": 10000,
+            "position": "00030"
+        },
+        "31": {
+            "chunkMD5Hash": "3c0a481a4311e307ac58de58dcc6ec76",
+            "chunkSize": 10000,
+            "position": "00031"
+        },
+        "32": {
+            "chunkMD5Hash": "f3375d8714ba0c1bfb558988b8fce909",
+            "chunkSize": 10000,
+            "position": "00032"
+        },
+        "33": {
+            "chunkMD5Hash": "2904153027de55f87a78e6ba430451c1",
+            "chunkSize": 10000,
+            "position": "00033"
+        },
+        "34": {
+            "chunkMD5Hash": "da3a14d2f4941c48193e435f6edb8bbb",
+            "chunkSize": 10000,
+            "position": "00034"
+        },
+        "35": {
+            "chunkMD5Hash": "0693dcac9d1916eceb5f4d4b5d6f5a58",
+            "chunkSize": 10000,
+            "position": "00035"
+        },
+        "36": {
+            "chunkMD5Hash": "8ae2bf18e79a10d830047a4c21511a09",
+            "chunkSize": 10000,
+            "position": "00036"
+        },
+        "37": {
+            "chunkMD5Hash": "6476e42a4b88bf1068be204de0348bdf",
+            "chunkSize": 10000,
+            "position": "00037"
+        },
+        "38": {
+            "chunkMD5Hash": "e9b618eb9f9b14afea925abc68aa747a",
+            "chunkSize": 10000,
+            "position": "00038"
+        },
+        "39": {
+            "chunkMD5Hash": "78b85b3d843c8f6c9429087caa7030d4",
+            "chunkSize": 10000,
+            "position": "00039"
+        },
+        "40": {
+            "chunkMD5Hash": "f40f3dc8379c758d7fc9bef645b94e5d",
+            "chunkSize": 10000,
+            "position": "00040"
+        },
+        "41": {
+            "chunkMD5Hash": "f01fa7731367ac6645552ae91261d857",
+            "chunkSize": 10000,
+            "position": "00041"
+        },
+        "42": {
+            "chunkMD5Hash": "9998a8acf434fc669b0b6f8e20dfa86a",
+            "chunkSize": 10000,
+            "position": "00042"
+        },
+        "43": {
+            "chunkMD5Hash": "6fb6e6453733a266fd5dbdfd73f3ae62",
+            "chunkSize": 10000,
+            "position": "00043"
+        },
+        "44": {
+            "chunkMD5Hash": "b96f373d86fb78382862d8f574afd933",
+            "chunkSize": 10000,
+            "position": "00044"
+        },
+        "45": {
+            "chunkMD5Hash": "90509c21225e85855c9bea1a9d275b3d",
+            "chunkSize": 10000,
+            "position": "00045"
+        },
+        "46": {
+            "chunkMD5Hash": "580899b829c6868e1620ecca8d1e5a6f",
+            "chunkSize": 10000,
+            "position": "00046"
+        },
+        "47": {
+            "chunkMD5Hash": "0ea728c7376b6edfd4adbd6df8c68617",
+            "chunkSize": 10000,
+            "position": "00047"
+        },
+        "48": {
+            "chunkMD5Hash": "5c713b73ae8eb6d699efc1888c4c921d",
+            "chunkSize": 10000,
+            "position": "00048"
+        },
+        "49": {
+            "chunkMD5Hash": "d97361494abc5bae492da2d666cb7d72",
+            "chunkSize": 10000,
+            "position": "00049"
+        },
+        "50": {
+            "chunkMD5Hash": "ac74459763df5cb1d022c909302aa4e0",
+            "chunkSize": 10000,
+            "position": "00050"
+        },
+        "51": {
+            "chunkMD5Hash": "70b9dadf47a255323ff28f7645d6f5d0",
+            "chunkSize": 10000,
+            "position": "00051"
+        },
+        "52": {
+            "chunkMD5Hash": "898603235fb8cd7a82845a9714fc1b4a",
+            "chunkSize": 10000,
+            "position": "00052"
+        },
+        "53": {
+            "chunkMD5Hash": "8581b240a808665946e5d32efc95220d",
+            "chunkSize": 10000,
+            "position": "00053"
+        },
+        "54": {
+            "chunkMD5Hash": "966aa3fca906dd5e4a7ec13dbe8338f5",
+            "chunkSize": 10000,
+            "position": "00054"
+        },
+        "55": {
+            "chunkMD5Hash": "bebf87011b968996286a9b707a36188d",
+            "chunkSize": 10000,
+            "position": "00055"
+        },
+        "56": {
+            "chunkMD5Hash": "e0bf5df93d9027901893dbebed8c15d7",
+            "chunkSize": 10000,
+            "position": "00056"
+        },
+        "57": {
+            "chunkMD5Hash": "ab4d7a7b6a06878bd1f0b4dc81c6d8f6",
+            "chunkSize": 10000,
+            "position": "00057"
+        },
+        "58": {
+            "chunkMD5Hash": "7fda94326113225a0724c70d46b71002",
+            "chunkSize": 10000,
+            "position": "00058"
+        },
+        "59": {
+            "chunkMD5Hash": "4cbe0d1841c83b7d0fb0199801a52313",
+            "chunkSize": 10000,
+            "position": "00059"
+        },
+        "60": {
+            "chunkMD5Hash": "715354124b8046920e5af918e4daeb40",
+            "chunkSize": 10000,
+            "position": "00060"
+        },
+        "61": {
+            "chunkMD5Hash": "357d2bfbe95ad663c149a7be15875af5",
+            "chunkSize": 10000,
+            "position": "00061"
+        },
+        "62": {
+            "chunkMD5Hash": "c624e5134ffd78a1fb0c8a9cfb3989fb",
+            "chunkSize": 10000,
+            "position": "00062"
+        },
+        "63": {
+            "chunkMD5Hash": "0c3e3d2cb1a87cdcb51920475f4dce5d",
+            "chunkSize": 10000,
+            "position": "00063"
+        },
+        "64": {
+            "chunkMD5Hash": "6481e357fe1d73eb75f6c5f9b6e044d7",
+            "chunkSize": 10000,
+            "position": "00064"
+        },
+        "65": {
+            "chunkMD5Hash": "7d941c9a49d2cd35bb98c7d796cd12a0",
+            "chunkSize": 10000,
+            "position": "00065"
+        },
+        "66": {
+            "chunkMD5Hash": "a5fd59241b9e962bc6d1604200967447",
+            "chunkSize": 10000,
+            "position": "00066"
+        },
+        "67": {
+            "chunkMD5Hash": "faa381a158c48d1bcaecd151d1a743f6",
+            "chunkSize": 10000,
+            "position": "00067"
+        },
+        "68": {
+            "chunkMD5Hash": "092412c9861f08d9b072d51bce6db6cc",
+            "chunkSize": 10000,
+            "position": "00068"
+        },
+        "69": {
+            "chunkMD5Hash": "b4a1d544f405dcd7c4ea29cd6f6435d8",
+            "chunkSize": 10000,
+            "position": "00069"
+        },
+        "70": {
+            "chunkMD5Hash": "534e7032973e643cc9b02a7801e066c3",
+            "chunkSize": 10000,
+            "position": "00070"
+        },
+        "71": {
+            "chunkMD5Hash": "cc4ef60b79bf4578e26a477149449339",
+            "chunkSize": 10000,
+            "position": "00071"
+        },
+        "72": {
+            "chunkMD5Hash": "a5acab3151965c65e5b6f7a19ffe4cca",
+            "chunkSize": 10000,
+            "position": "00072"
+        },
+        "73": {
+            "chunkMD5Hash": "9ddbeb35012723f139ea8590e6f7cf24",
+            "chunkSize": 10000,
+            "position": "00073"
+        },
+        "74": {
+            "chunkMD5Hash": "87090bf5cbad8cf7cd7402ed8225a40e",
+            "chunkSize": 10000,
+            "position": "00074"
+        },
+        "75": {
+            "chunkMD5Hash": "4d0b8bf5be0ab9c1952072856eb4042c",
+            "chunkSize": 10000,
+            "position": "00075"
+        },
+        "76": {
+            "chunkMD5Hash": "ccf368b6a86fa0fc23d6b6032b32569c",
+            "chunkSize": 10000,
+            "position": "00076"
+        },
+        "77": {
+            "chunkMD5Hash": "94eb94589504030a75694865507234c4",
+            "chunkSize": 10000,
+            "position": "00077"
+        },
+        "78": {
+            "chunkMD5Hash": "ea0224a084a84fcb78dd6e816b51a125",
+            "chunkSize": 10000,
+            "position": "00078"
+        },
+        "79": {
+            "chunkMD5Hash": "557e0f6b8a1d5496d47a335ab55f4116",
+            "chunkSize": 10000,
+            "position": "00079"
+        },
+        "80": {
+            "chunkMD5Hash": "a1c655ba6e104faf5cab0dd7064853a7",
+            "chunkSize": 10000,
+            "position": "00080"
+        },
+        "81": {
+            "chunkMD5Hash": "1500a7250b44ac506f196598faf6b2c1",
+            "chunkSize": 10000,
+            "position": "00081"
+        },
+        "82": {
+            "chunkMD5Hash": "0b1584ee707f7e27a526f9c22f1ee045",
+            "chunkSize": 10000,
+            "position": "00082"
+        },
+        "83": {
+            "chunkMD5Hash": "a5bec2048990f7d52fb222038ad9afb6",
+            "chunkSize": 10000,
+            "position": "00083"
+        },
+        "84": {
+            "chunkMD5Hash": "204a407ff81d3bbbc410315b00e3c4e1",
+            "chunkSize": 10000,
+            "position": "00084"
+        },
+        "85": {
+            "chunkMD5Hash": "d1d619cd69c6ed58f68231b6b8df1be2",
+            "chunkSize": 10000,
+            "position": "00085"
+        },
+        "86": {
+            "chunkMD5Hash": "73cf1bf99de5beed2486907b17268a9e",
+            "chunkSize": 10000,
+            "position": "00086"
+        },
+        "87": {
+            "chunkMD5Hash": "54e079faa450def95b823b2a40a2c38e",
+            "chunkSize": 10000,
+            "position": "00087"
+        },
+        "88": {
+            "chunkMD5Hash": "fca7b66ec03bfa7bbfac9f400055efcf",
+            "chunkSize": 10000,
+            "position": "00088"
+        },
+        "89": {
+            "chunkMD5Hash": "3fae9cdaeda9e2041504449c22a5761e",
+            "chunkSize": 10000,
+            "position": "00089"
+        },
+        "90": {
+            "chunkMD5Hash": "f4d55db4720eb89ffc6063131b3f7e72",
+            "chunkSize": 10000,
+            "position": "00090"
+        },
+        "91": {
+            "chunkMD5Hash": "a33ca4f05f8653a16797331ceedf1119",
+            "chunkSize": 10000,
+            "position": "00091"
+        },
+        "92": {
+            "chunkMD5Hash": "b6de9f0c4dc553c8de57d2309b809c2f",
+            "chunkSize": 10000,
+            "position": "00092"
+        },
+        "93": {
+            "chunkMD5Hash": "a1af8ca2d2fc0df8b5a397b9c7756dd1",
+            "chunkSize": 10000,
+            "position": "00093"
+        },
+        "94": {
+            "chunkMD5Hash": "b033a75f109a4e52f3dcebdb08a80e60",
+            "chunkSize": 10000,
+            "position": "00094"
+        },
+        "95": {
+            "chunkMD5Hash": "b7123e109009be40fcf2343ede9caca9",
+            "chunkSize": 10000,
+            "position": "00095"
+        },
+        "96": {
+            "chunkMD5Hash": "7f40c821f5c6b34a00ce12380946acf2",
+            "chunkSize": 10000,
+            "position": "00096"
+        },
+        "97": {
+            "chunkMD5Hash": "664d8e28a374b5de24d93c3326f9af6f",
+            "chunkSize": 10000,
+            "position": "00097"
+        },
+        "98": {
+            "chunkMD5Hash": "d665086f16c4d387bec7bd3acdadd80a",
+            "chunkSize": 10000,
+            "position": "00098"
+        },
+        "99": {
+            "chunkMD5Hash": "10831c1b206f28418f989356ac93706e",
+            "chunkSize": 10000,
+            "position": "00099"
+        },
+        "100": {
+            "chunkMD5Hash": "f2a9c1ea54b662de3923c11c2eb0a04c",
+            "chunkSize": 10000,
+            "position": "00100"
+        },
+        "101": {
+            "chunkMD5Hash": "f6ef26c6e31e986f250f6841da5cb8bb",
+            "chunkSize": 10000,
+            "position": "00101"
+        },
+        "102": {
+            "chunkMD5Hash": "5df176cf926b3036476764888a70e478",
+            "chunkSize": 10000,
+            "position": "00102"
+        },
+        "103": {
+            "chunkMD5Hash": "4daa79b907b81830a98fa56b21573ea1",
+            "chunkSize": 10000,
+            "position": "00103"
+        },
+        "104": {
+            "chunkMD5Hash": "22488096af768b7cd16fb8dfec605576",
+            "chunkSize": 10000,
+            "position": "00104"
+        },
+        "105": {
+            "chunkMD5Hash": "cc17d0e3cf467440bfe9d729359a3b52",
+            "chunkSize": 4460,
+            "position": "00105"
+        }
+    },
+    "chunkMaxSizeBytes": 10000,
+    "fileMD5Hash": "cc17d0e3cf467440bfe9d729359a3b52",
+    "fileMode": "100644",
+    "fileName": "TEST",
+    "filePath": "/tmp",
+    "fileSizeBytes": 1054460,
+    "numChunks": 106
+}
